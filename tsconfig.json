@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES2018",
+    "module": "ES2015",
+    "jsx": "react-jsxdev",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "alwaysStrict": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true
+
+    // for 4.4
+    // "exactOptionalPropertyTypes": true
+  }
+}
